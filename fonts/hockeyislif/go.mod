@@ -1,6 +1,6 @@
-module github.com/gmlewis/go-fonts-h/fonts/heavydata
+module github.com/gmlewis/go-fonts-h/fonts/hockeyislif
 
-go 1.22.4
+go 1.22.5
 
 require github.com/gmlewis/go-fonts v0.19.0
 
